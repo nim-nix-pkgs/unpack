@@ -9,7 +9,7 @@
   
   inputs.src-unpack-master.flake = false;
   inputs.src-unpack-master.owner = "technicallyagd";
-  inputs.src-unpack-master.ref   = "refs/heads/master";
+  inputs.src-unpack-master.ref   = "master";
   inputs.src-unpack-master.repo  = "unpack";
   inputs.src-unpack-master.type  = "github";
   
